@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @mayank saini<br>- 👀 I’m interested in software engineering<br>- 🌱 I’m currently learning Java full stack Developer<br>- 💞️ I’m looking to collaborate on ....<br><!---<br>mksaini07/mksaini07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br>You can click the Preview link to take a look at your changes.<br>---><br>
+- 👋 Hi, I’m @mayank saini<br>- 👀 I’m interested in software engineering<br>- 🌱 I’m currently learning Java full stack Developer<br>- 💞️ I’m looking to collaborate on ....
 
 
 ## 🌐 Socials:
